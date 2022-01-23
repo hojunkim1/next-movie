@@ -1,6 +1,12 @@
 {
   "name": "nextjs-app",
-  "private": true,
+  "version": "1.0.0",
+  "description": "learn nextjs",
+  "main": "index.js",
+  "repository": "https://github.com/hojunkim1/nextjs-example.git",
+  "author": "Hojun Kim <76956067+hojunkim1@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
