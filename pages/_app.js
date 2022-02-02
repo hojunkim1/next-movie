@@ -1,12 +1,11 @@
-import Navbar from "../components/Navbar";
+import Layout from "../components/Layout";
 import "../styles/app.scss";
 
 const MyApp = ({ Component, pageProps }) => {
   return (
-    <div>
-      <Navbar />
+    <Layout>
       <Component {...pageProps} />
-    </div>
+    </Layout>
   );
 };
 
