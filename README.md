@@ -1,1 +1,1 @@
-# Learn React Framework - NextJs
+# Made Movie App with NextJS
